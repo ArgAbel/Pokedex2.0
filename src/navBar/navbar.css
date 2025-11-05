@@ -1,0 +1,17 @@
+.navBar{
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+
+}
+.img{
+    max-width: 100%;
+}
+.logo{
+    width: 250px;
+    height: 100px;
+    
+}
+ul{
+    display: none;
+}
